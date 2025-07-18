@@ -102,4 +102,6 @@ To access darknet markets, you must use their official onion URLs. Always ensure
 Start safely. Always verify and prioritize security.
 Plase contribute and add stars to this repo.
 
-Update:  14.07.2025 03:51
+
+
+Update: url is live and clickable
